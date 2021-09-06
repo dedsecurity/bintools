@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+import convert
+
+if __name__ == '__main__':
+    convert.main(hex, '0x', 'word')
