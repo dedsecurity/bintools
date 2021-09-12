@@ -5,6 +5,7 @@ Website:  https://www.dedsecurity.com
 Author:   Simon Kinjo
 Maintenance:  Simon Kinjo
 ```
+---
 
 ## Installation
 
@@ -27,6 +28,7 @@ run in the terminal
 ```bash
 python bin 2
 ```
+---
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
